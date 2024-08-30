@@ -65,6 +65,10 @@
   "translator.proxy": "socks://127.0.0.1:7890",
   "translator.engines": ["google", "youdao", "bing"],
   "translator.toLang": "zh_CN",
-  "snippets.ultisnips.pythonPrompt": false
+  "snippets.ultisnips.pythonPrompt": false,
   //end
+
+  //Java import library
+
+  "java.project.referencedLibraries": ["lib/algs4.jar"]
 }
